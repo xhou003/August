@@ -1,0 +1,25 @@
+body{
+  font-family: arial, sans-sans-serif;
+  text-align:center;
+  margin:0 auto;
+  background-color: #F0E4E2;
+  width:85%
+}
+
+
+h1 {
+  color: #574533;
+}
+p{
+  color:#473830; margin:50px
+}
+h2{
+color:#473830;
+border:1px solid #473830;
+margin: 50px;
+padding:25px;
+}
+
+img{
+  width:60%
+}
